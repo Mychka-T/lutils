@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(90deg,rgb(26, 26, 26),rgb(109, 109, 109), rgb(27, 27, 27));
+  font-size: 40px;
+  color: #fff;
+  line-height: 2%;
+  cursor: pointer;
+  letter-spacing: 4px;
+}
+
+h1 span {
+  color: rgb(202, 0, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
